@@ -1,0 +1,5 @@
+order_id,customer_name,product,quantity,price,order_date
+1001,Alice,Laptop,1,900.00,2023-05-01
+1002,Bob,Phone,2,450.00,2023-05-02
+1003,Carol,Monitor,1,300.00,2023-05-03
+1004,David,Laptop,3,850.00,2023-05-04
