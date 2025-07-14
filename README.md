@@ -65,15 +65,3 @@ Future Improvements
 3. Deploy dashboard online (e.g., Streamlit Cloud or Heroku)
 4. Extend ETL to support other data sources (JSON, APIs)
 
-<img width="1369" height="265" alt="Screenshot 2025-07-14 at 13 47 24" src="https://github.com/user-attachments/assets/820e896a-5ba3-486c-8aea-cdcf2c347b0c" />
-
-<img width="1358" height="388" alt="Screenshot 2025-07-14 at 13 47 27" src="https://github.com/user-attachments/assets/e7675348-4d04-46c9-8136-62f1b3a60702" />
-
-<img width="1378" height="320" alt="Screenshot 2025-07-14 at 13 47 30" src="https://github.com/user-attachments/assets/16447a82-045b-4d9f-8715-01eb929f6717" />
-
-
-
-
-
-
-
